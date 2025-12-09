@@ -151,7 +151,7 @@ If you see replies, you're connected! If not, check your cable connection.
 
 ### Wireless Connection (Wi-Fi)
 
-If you need to use Wi-Fi, follow these steps using the `iwctl` command:
+If you need to use WiFi, follow these steps using the `iwctl` command:
 
 ```bash
 # Enter the interactive prompt
